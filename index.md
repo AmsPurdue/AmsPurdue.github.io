@@ -12,5 +12,11 @@ I examine human-environment interactions from the perspectives of landscape ecol
  * M.S. in Remotely Sensed Oceanography from the University of Delware
  * Ph.D. in Forestry and Natural Resources from Purdue University
 
+### Certifications
+* ENVISION Sustainability Professional, Institute for Sustainable Infrastructure (Summer 2022-2027)
+* GISP Certified - #99246 (December 2017-2029) – accredited by the Council of Engineering and Scientific Specialty Boards (CESB)
+* Remote Pilot for sUAS (Small Unmanned Aircraft System) Certification #3984109, FAA (March 2017-2020)
+
+
  ### Some Favorite Maps
  ![Tux, the Linux mascot](/assets/images/tux.png)
