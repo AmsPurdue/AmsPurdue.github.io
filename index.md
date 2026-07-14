@@ -1,7 +1,7 @@
 ## Amélie Davis, Ph.D. 
 ![My name in Landscape!](https://github.com/AmsPurdue/aydavis.bio.github.io/blob/main/IMG/Amelie.png?raw=true)
 
-I examine human-environment interactions from the perspectives of landscape ecology, land change science, environmental planning, and sustainability science.
+I examine human-environment interactions from the perspectives of landscape ecology, land change science, environmental planning, and sustainability science. My collaborators and I are particularly interested in how land use land cover change can affect the sustainability of landscapes and communities in both urban and non-urban systems and at a variety of scales. We incorporate complex geospatial analyses, simulation models, statistics, remote sensing, as well as social survey and field data to study a number of research topics. 
 
 ### Online Presence
 * My [LinkedIn](https://www.linkedin.com/in/amelie-davis-a0581959/)
@@ -19,3 +19,13 @@ I examine human-environment interactions from the perspectives of landscape ecol
 
 ### Some Favorite Maps
  ![Tux, the Linux mascot](/assets/images/tux.png)
+
+### Research Topics
+#### Land Use Land Cover Change Effects on Pollinators
+My collaborators and I are interested in modeling the effects of land use land cover change on honey production (as a proxy for honeybee health) and wild bee abundance and richness.  This work has been funded by the USGS and USDA.  
+#### Urban Ecosystem Services
+We are interested in studying the provision and distribution of ecosystem services in urban landscapes, as well as how those ecosystem services might be maintained and enhanced.  
+#### Conservation Planning
+We are interested in studying coupled natural-human systems and how their dynamics affect conservation planning at local to national scales. 
+#### Urban Planning
+We are interested in examining how patterns of grey and green infrastructure (in both 2D and 3D space) affect the quality of life for people in cities.
